@@ -88,8 +88,8 @@ def string_reverser():
 
 
 def specific_word_counter():
-    "Count specific words ['is', 'are', 'has', 'have'] in a text file."
-    words_to_count = ["is", "are", "has", "have"]
+    "Count specific words ['kuzu', 'laso', 'tashi', 'yangchen'] in a text file."
+    words_to_count = ["kuzu", "laso", "tashi", "yangchen"]
     counts = {word: 0 for word in words_to_count}
 
     try:

@@ -13,7 +13,7 @@ def guess_number_game():
     "Play a number guessing game (1–100)."
     number = random.randint(1, 100)
     attempts = 0
-    print("\nI'm thinking of a number between 1 and 100...")
+    print("\nNga ghi number 1 lay 100 tsoen bana guess bay dho ...")
 
     while True:
         try:
