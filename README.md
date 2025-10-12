@@ -52,6 +52,22 @@ The Part A program implements several small command-line utilities accessible fr
 5. String reverser + word count — reverse a string and report the word count (handles multiple spaces).
 6. Specific-word counter — count occurrences of specific words (example words: `kuzu`, `laso`, `tashi`, `yangchen`) in a text source. The code shows how to read from a URL using `urllib.request`.
 
+### Output Screenshot:
+
+![alt text](<Screenshot from 2025-10-11 23-36-29.png>)
+
+![alt text](<Screenshot from 2025-10-11 23-39-43.png>)
+
+![alt text](<Screenshot from 2025-10-11 23-40-16.png>)
+
+![alt text](<Screenshot from 2025-10-11 23-43-04.png>)
+
+![alt text](<Screenshot from 2025-10-11 23-45-11.png>)
+
+![alt text](<Screenshot from 2025-10-11 23-47-34.png>)
+
+![alt text](<Screenshot from 2025-10-11 23-51-29.png>)
+
 ---
 
 ## Part B — Games 
@@ -61,6 +77,14 @@ The Part A program implements several small command-line utilities accessible fr
 
 Both games use the `random` module from the standard library.
 
+
+### Output Screenshots: 
+
+![alt text](<Screenshot from 2025-10-11 23-59-25.png>)
+
+![alt text](<Screenshot from 2025-10-12 00-06-16.png>)
+
+![alt text](<Screenshot from 2025-10-12 00-06-53.png>)
 ---
 
 ## Notes
@@ -72,7 +96,7 @@ Both games use the `random` module from the standard library.
 
 ## Repository
 
-
+https://github.com/Rabtens/KuenzangRabten_02230289_A1.git
 
 ---
 
