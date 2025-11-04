@@ -78,9 +78,22 @@ All required functions are implemented and work as expected. The code includes c
 ## 8. Screenshots (placeholders)
 
 1. **Screenshot - Part A:** Menu and linear search output
+![alt text](<Screenshot from 2025-11-04 11-38-13.png>)
+
 2. **Screenshot - Part A:** Binary search output
+![alt text](<Screenshot from 2025-11-04 11-38-37.png>)
+
+![alt text](<Screenshot from 2025-11-04 11-38-48.png>)
+
 3. **Screenshot - Part B:** Bubble sort output
+![alt text](<Screenshot from 2025-11-04 11-39-14.png>)
+
 4. **Screenshot - Part B:** Insertion sort output with top 5 scores
+![alt text](<Screenshot from 2025-11-04 11-39-33.png>)
+
 5. **Screenshot - Part B:** Quick sort output with recursive call count
+![alt text](<Screenshot from 2025-11-04 11-39-54.png>)
+
+![alt text](<Screenshot from 2025-11-04 11-40-07.png>)
 
 ---
