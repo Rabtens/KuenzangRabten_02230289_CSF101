@@ -31,10 +31,6 @@ Part A provides two search operations: Linear Search (to find a student ID) and 
 - **Linear Search:** Iterates through the student ID list and counts comparisons. Returns a 1-indexed position when found.
 - **Binary Search:** Iterative binary search over a sorted list of scores. Counts comparisons and returns a 1-indexed position when found.
 
-### 3.3 Sample Outputs
-
-*Insert Screenshot: Output showing both menu options, a successful linear search, and a successful binary search.*
-
 ---
 
 ## 4. Part B — Sorting Algorithms
@@ -48,11 +44,6 @@ Part B provides three sorting operations: Bubble Sort (student names), Insertion
 - **Bubble Sort:** Simple pairwise swapping to order names alphabetically (case-insensitive). The program also prints total swaps for basic analysis.
 - **Insertion Sort:** Standard insertion sort to order numeric scores. The report displays sorted scores and the top five scores in descending order.
 - **Quick Sort:** Implemented using the divide-and-conquer approach. A counter records the number of recursive calls for transparency.
-
-### 4.3 Sample Outputs
-
-*Insert Screenshot: Output showing bubble sort result, insertion sort result with top 5 scores, and quick sort result with recursive call count.*
-
 ---
 
 ## 5. Code Listing
@@ -75,7 +66,7 @@ All required functions are implemented and work as expected. The code includes c
 
 ---
 
-## 8. Screenshots (placeholders)
+## 8. Screenshots
 
 1. **Screenshot - Part A:** Menu and linear search output
 ![alt text](<Screenshot from 2025-11-04 11-38-13.png>)
