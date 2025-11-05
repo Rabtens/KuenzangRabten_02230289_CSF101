@@ -26,7 +26,7 @@ This report documents the implementation of searching and sorting algorithms as 
 
 Part A provides two search operations: Linear Search (to find a student ID) and Binary Search (to find a score). The student IDs and scores are hardcoded lists as required.
 
-### 3.2 Implementations (brief)
+### 3.2 Implementations
 
 - **Linear Search:** Iterates through the student ID list and counts comparisons. Returns a 1-indexed position when found.
 - **Binary Search:** Iterative binary search over a sorted list of scores. Counts comparisons and returns a 1-indexed position when found.
@@ -39,7 +39,7 @@ Part A provides two search operations: Linear Search (to find a student ID) and 
 
 Part B provides three sorting operations: Bubble Sort (student names), Insertion Sort (test scores), and Quick Sort (book prices). Lists are hardcoded with the requested number of items.
 
-### 4.2 Implementations (brief)
+### 4.2 Implementations 
 
 - **Bubble Sort:** Simple pairwise swapping to order names alphabetically (case-insensitive). The program also prints total swaps for basic analysis.
 - **Insertion Sort:** Standard insertion sort to order numeric scores. The report displays sorted scores and the top five scores in descending order.
