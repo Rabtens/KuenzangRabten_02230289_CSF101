@@ -48,7 +48,9 @@ Part B provides three sorting operations: Bubble Sort (student names), Insertion
 
 ## 5. Code Listing
 
-*Insert the full Python code here (copy from GitHub files) — or attach the files.*
+[PartA_Code](KuenzangRabten_02230289_A2_PA.py)
+
+[PartB_Code](KuenzangRabten_02230289_A2_PB.py)
 
 ---
 
